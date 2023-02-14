@@ -40,7 +40,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/notific"
+        android:text="notific"
         android:layout_gravity="top|center"
-        android:backgroundTint="#E91E63"/>
+        android:backgroundTint="#EA5E8E"/>
 
 </FrameLayout>
